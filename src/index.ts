@@ -1,4 +1,4 @@
-import type { AxiosInstance, AxiosStatic, InternalAxiosRequestConfig } from 'axios';
+import type { AxiosInstance, AxiosStatic, InternalAxiosRequestConfig } from 'axios-https-proxy-fix';
 import { HttpCookieAgent, HttpsCookieAgent } from 'http-cookie-agent/http';
 import type { CookieJar } from 'tough-cookie';
 
